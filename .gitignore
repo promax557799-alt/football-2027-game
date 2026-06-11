@@ -1,0 +1,25 @@
+# Logs
+logs/
+*.log
+
+# Unity
+Library/
+Build/
+Builds/
+Developer Build/
+
+# User Preferences
+UserSettings/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.meta
+
+# Temporary files
+*.tmp
+*.bak
